@@ -1,3 +1,9 @@
+.vs/*
+Debug/*
+Release/*
+HWIDEXE/Debug/*
+HWIDEXE/Release/*
+
 # Prerequisites
 *.d
 
